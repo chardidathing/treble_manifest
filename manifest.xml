@@ -20,4 +20,6 @@
 <project path="vendor/gapps" name="MisterZtr/vendor_gapps" remote="gitlab" revision="vic" />
 
 <project path="packages/apps/FaceUnlock" name="Evolution-X/packages_apps_FaceUnlock" remote="git-hub" revision="vic" />
+
+<project path="" name="chardidathing/MP01-LineageGSI" remote="git-hub" revision="15" />
 </manifest>
