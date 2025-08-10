@@ -21,5 +21,5 @@
 
 <project path="packages/apps/FaceUnlock" name="Evolution-X/packages_apps_FaceUnlock" remote="git-hub" revision="vic" />
 
-<project name="chardidathing/inkOS" path="vendor/inkOS" remote="github" revision="main" />
+<project name="chardidathing/inkOS" path="packages/apps/inkOS" remote="github" revision="main" />
 </manifest>
