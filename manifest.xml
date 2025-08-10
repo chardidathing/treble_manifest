@@ -20,6 +20,4 @@
 <project path="vendor/gapps" name="MisterZtr/vendor_gapps" remote="gitlab" revision="vic" />
 
 <project path="packages/apps/FaceUnlock" name="Evolution-X/packages_apps_FaceUnlock" remote="git-hub" revision="vic" />
-
-<project name="chardidathing/inkOS" path="vendor/chardidathing/inkOS" remote="github" revision="main" />
 </manifest>
